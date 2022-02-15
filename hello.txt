@@ -1,2 +1,13 @@
 Hi everyone welcome to hello git series
 I liked the series
+
+clone ->team 
+clone ->changes ->push
+we can push it because we have write access since I am a co-owner
+
+
+to contribute to open source
+fork github 
+clone
+changes unhe push github
+repo owner incorporate 
